@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.cap.apps</groupId>
-    <artifactId>studentbootjpa</artifactId>
+    <artifactId>studentbootjpa.studentspringms</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>studentjpams</name>
     <description>Demo project for Spring Boot</description>
