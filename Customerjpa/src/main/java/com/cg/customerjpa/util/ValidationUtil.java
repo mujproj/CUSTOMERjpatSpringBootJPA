@@ -4,8 +4,8 @@ import com.cg.customerjpa.exceptions.*;
 
 public class ValidationUtil {
 
-	public static void checkArgumentNotNull(Object arg) {
-		if (arg == null) {
+	public static void checkArgumentNotNull(Object argument) {
+		if (argument == null) {
 			throw new InvalidArgumentException("arg can't be null");
 		}
 	}
